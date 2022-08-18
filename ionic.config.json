@@ -1,0 +1,7 @@
+{
+  "name": "jajalionic-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
